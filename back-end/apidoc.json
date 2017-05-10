@@ -1,0 +1,15 @@
+{
+  "name": "Library Demo",
+  "version": "0.3.0",
+  "description": "apidoc Node-MongoDB-Express implemented in Library Demo project",
+  "apidoc": {
+    "header": {
+      "title": "libray_API_Design_header_Name",
+      "filename": "header.md"
+    },
+    "footer": {
+      "title": "libray_Footer_Name",
+      "filename": "footer.md"
+    }
+  }
+}

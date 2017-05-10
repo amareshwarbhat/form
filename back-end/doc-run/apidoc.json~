@@ -1,0 +1,15 @@
+{
+  "name": "Library",
+  "version": "0.3.0",
+  "description": "apidoc library project.",
+  "apidoc": {
+    "header": {
+      "title": "library_API_Design_header_Name",
+      "filename": "header.md"
+    },
+    "footer": {
+      "title": "library_Footer_Name",
+      "filename": "footer.md"
+    }
+  }
+}
